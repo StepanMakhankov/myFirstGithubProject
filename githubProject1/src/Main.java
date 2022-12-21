@@ -23,9 +23,11 @@ public class Main {
                         System.out.println("You lose!");
                         break;
                 }
+                System.out.println("Thanks for the game!");
             case "no":
                 System.out.println("Bye!");
                 break;
         }
+
     }
 }
